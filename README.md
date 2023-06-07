@@ -39,7 +39,7 @@
 	</a>
 </p>
 
-<h2 align='left'><i>👨‍💻 Languages and tools</i></h2>
+<h2 align='left'><i>👨‍💻 Lenuajes < > Herramientas < > Tecnologias</i></h2>
 
 | **Lenguajes de programación** | **Frameworks, plataformas y herramientas** | **Bases de datos** | **Sistemas Operativos y CLI** |
 |:---: | :---: | :---: | :---:|
@@ -47,7 +47,7 @@
 
 
 <details> 
-  <summary><h2 align='left'><i>📈 Activity Graph</i></h2></summary>
+  <summary><h2 align='left'><i>📈 Grafica de Actividades</i></h2></summary>
 <p align="center">
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Bryan-Herrera-DEV&line=00d13b&theme=high-contrast&area=true&hide_border=true" width="100%">
@@ -58,60 +58,14 @@
 </h3>
 </details>
 
-<details> 
-  <summary><h2>📺 Latest YouTube Videos</h2></summary>
-
-  <!-- YouTube Cards - https://github.com/DenverCoder1/github-readme-youtube-cards -->
-
-  <!-- prettier-ignore-start -->
-  <!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=PBhbRcPOEMA"><img src="https://ytcards.demolab.com/?id=PBhbRcPOEMA&title=LINKED+LIST+%28Segunda+Parte%2C+Lista+de+Nodos%29+%7C+Algoritmos+y+estructuras+de+datos+con+TypeScript&lang=en&timestamp=1679187970&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=2829" alt="LINKED LIST (Segunda Parte, Lista de Nodos) | Algoritmos y estructuras de datos con TypeScript" title="LINKED LIST (Segunda Parte, Lista de Nodos) | Algoritmos y estructuras de datos con TypeScript"></a>
-<a href="https://www.youtube.com/watch?v=dMJLcRY6WNw"><img src="https://ytcards.demolab.com/?id=dMJLcRY6WNw&title=LINKED+LIST+%28Primera+Parte%2C+Nodos%29+%7C+Algoritmos+y+estructuras+de+datos+con+TypeScript&lang=en&timestamp=1675642239&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=2698" alt="LINKED LIST (Primera Parte, Nodos) | Algoritmos y estructuras de datos con TypeScript" title="LINKED LIST (Primera Parte, Nodos) | Algoritmos y estructuras de datos con TypeScript"></a>
-<a href="https://www.youtube.com/watch?v=O15QndpLHGE"><img src="https://ytcards.demolab.com/?id=O15QndpLHGE&title=QUICK+SORT+explicado+desde+cero+con+TYPESCRIPT+%7C+Algoritmos+y+estructuras+de+datos+con+JS%2FTS&lang=en&timestamp=1674346895&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=3322" alt="QUICK SORT explicado desde cero con TYPESCRIPT | Algoritmos y estructuras de datos con JS/TS" title="QUICK SORT explicado desde cero con TYPESCRIPT | Algoritmos y estructuras de datos con JS/TS"></a>
-<a href="https://www.youtube.com/watch?v=2JS6t3R8gFQ"><img src="https://ytcards.demolab.com/?id=2JS6t3R8gFQ&title=CESAR+CIPHER+explicado+desde+cero+con+TYPESCRIPT+%7C+Algoritmos+y+estructuras+de+datos+con+JS%2FTS&lang=en&timestamp=1668431590&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=3851" alt="CESAR CIPHER explicado desde cero con TYPESCRIPT | Algoritmos y estructuras de datos con JS/TS" title="CESAR CIPHER explicado desde cero con TYPESCRIPT | Algoritmos y estructuras de datos con JS/TS"></a>
-<a href="https://www.youtube.com/watch?v=00pu8usw2Ho"><img src="https://ytcards.demolab.com/?id=00pu8usw2Ho&title=GNOME+SORT+explicado+desde+cero+con+TYPESCRIPT++%7C+Algoritmos+y+estructuras+de+datos+con+JS%2FTS&lang=en&timestamp=1667779807&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1710" alt="GNOME SORT explicado desde cero con TYPESCRIPT  | Algoritmos y estructuras de datos con JS/TS" title="GNOME SORT explicado desde cero con TYPESCRIPT  | Algoritmos y estructuras de datos con JS/TS"></a>
-<a href="https://www.youtube.com/watch?v=GaCQZdAcT-U"><img src="https://ytcards.demolab.com/?id=GaCQZdAcT-U&title=Freedie+Mercury+CSS-ART+~+ASMR+Programming&lang=en&timestamp=1660096372&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=1590" alt="Freedie Mercury CSS-ART ~ ASMR Programming" title="Freedie Mercury CSS-ART ~ ASMR Programming"></a>
-<!-- END YOUTUBE-CARDS -->
-  <!-- prettier-ignore-end -->
-  
-</details>
 
 <details> 
-  <summary><h2 align="left">📘 My top open source projects</h2></summary>
+  <summary><h2 align="left">📘 Ranking de mis mejores proyectos</h2></summary>
 
 <p align="center">
 	<a href="https://github.com/Bryan-Herrera-DEV/typescript-ddd-boilerplate">
 		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=typescript-ddd-boilerplate&bg_color=010101&title_color=00D13B&hide_border=true&icon_color=00D13B&show_icons=true&text_color=ffffff">
 	</a>
-	<a href="https://github.com/Bryan-Herrera-DEV/Python-Mp3Mp4-Downloader">
-		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Python-Mp3Mp4-Downloader&bg_color=010101&title_color=00D13B&hide_border=true&icon_color=00D13B&show_icons=true&text_color=ffffff">
-	</a>
-	<a href="https://github.com/Bryan-Herrera-DEV/Guia-de-seguridad-en-servidores">
-		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Guia-de-seguridad-en-servidores&bg_color=010101&title_color=00D13B&hide_border=true&icon_color=00D13B&show_icons=true&text_color=ffffff">
-	</a>
-	<a href="https://github.com/Bryan-Herrera-DEV/DDoSMitigatio-DTool">
-		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=DDoSMitigatio-DTool&bg_color=010101&title_color=00D13B&hide_border=true&icon_color=00D13B&show_icons=true&text_color=ffffff">
-	</a>
-	<a href="https://github.com/Bryan-Herrera-DEV/Angular-Password-Generator">
-		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Angular-Password-Generator&bg_color=010101&title_color=00D13B&hide_border=true&icon_color=00D13B&show_icons=true&text_color=ffffff">
-	</a>
-	<a href="https://github.com/Bryan-Herrera-DEV/Github-Profile-View-With-Charts">
-		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Github-Profile-View-With-Charts&bg_color=010101&title_color=00D13B&hide_border=true&icon_color=00D13B&show_icons=true&text_color=ffffff">
-	</a>
-	<a href="https://github.com/Bryan-Herrera-DEV/status-for-my-web-pages">
-		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=status-for-my-web-pages&bg_color=010101&title_color=00D13B&hide_border=true&icon_color=00D13B&show_icons=true&text_color=ffffff">
-	</a>
-	<a href="https://github.com/Bryan-Herrera-DEV/webpack-skeleton">
-		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=webpack-skeleton&bg_color=010101&title_color=00D13B&hide_border=true&icon_color=00D13B&show_icons=true&text_color=ffffff">
-	</a>
-	<a href="https://github.com/Bryan-Herrera-DEV/Angular-Maps">
-		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=Angular-Maps&bg_color=010101&title_color=00D13B&hide_border=true&icon_color=00D13B&show_icons=true&text_color=ffffff">
-	</a>
-	<a href="https://github.com/Bryan-Herrera-DEV/TradingWithSockets">
-		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=TradingWithSockets&bg_color=010101&title_color=00D13B&hide_border=true&icon_color=00D13B&show_icons=true&text_color=ffffff">
-	</a>
-	<a href="https://github.com/Bryan-Herrera-DEV/pokemon-wiki">
-		<img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Bryan-Herrera-DEV&repo=pokemon-wiki&bg_color=010101&title_color=00D13B&hide_border=true&icon_color=00D13B&show_icons=true&text_color=ffffff">
-	</a>
+	
 </p>
 </details>
