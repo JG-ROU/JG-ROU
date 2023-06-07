@@ -14,7 +14,10 @@
 </br>
 <div>
 
-<p>🎓︎ Actualmente estoy aprendiendo...</p>
+<h4 align="center">
+🎓︎ Actualmente estoy aprendiendo....
+</h4>
+
 	
 	
 	
@@ -35,7 +38,7 @@
 	<a href="https://www.linkedin.com/in/bryan-herrera-dev/" target="_blank">
 	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/linkedin.svg" width="40" height="95">
 	</a>
-	<a href="https://www.youtube.com/channel/UCpqPMLwkeOwqC_eKJi0tumg" target="_blank">
+	<a href="https://www.facebook.com/R0U.Dev" target="_blank">
 	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/youtube.svg" width="40" height="95">
 	</a>
 	<a href="https://codepen.io/Bryanlolry/" target="_blank">
