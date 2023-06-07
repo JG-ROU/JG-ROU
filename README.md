@@ -7,10 +7,11 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=JG-ROU&show_icons=true&theme=radical)"  width="400">
 
-<p>With more than 4 years in the programming area, I am a FullStack developer specialized in building (and occasionally designing) exceptional digital experiences on the web with technologies such as: Angular12+, MongoDB, Typescript, NodeJS, etc. Currently, I focus on content outreach and building accessible, user experience-centric, scalable and maintainable BackEnd pages and services.</p>
+<p>Con más de 4 años de experiencia en el área de programación, soy un desarrollador con enfoque FullStack y diseño de experiencias digitales excepcionales en la web utilizando tecnologías como <br>React</br> Angular12+,Typescript, <br>Python</br>, NodeJS, MongoBD y Oracle entre otras. Actualmente, busco fortalecer y afianzar conocimiento de manera constante buscando estar al dia de las nuevas innovaciones.</p>
 
-<p>I am a person who likes to teach, laugh and share, that is reflected in my YouTube, I consider myself a friendly person who likes to learn about everything, my biggest hobby is learning about astronomy and philosophy. I am someone with a lot of humor but at the same time seriousness in my work.</p>
+
 <div>
+
 	<p>🎓︎ Actualmente estoy aprendiendo...</p>
 	
 	
