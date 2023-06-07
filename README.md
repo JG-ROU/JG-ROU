@@ -9,10 +9,13 @@
 
 <p>Con más de 4 años de experiencia en el área de programación, soy un desarrollador con enfoque FullStack y diseño de experiencias digitales excepcionales en la web utilizando tecnologías como <b>React</b> Angular12+,Typescript, <b>Python</b>, NodeJS, MongoBD y Oracle entre otras. Actualmente, busco fortalecer y afianzar conocimiento de manera constante buscando estar al dia de las nuevas innovaciones.</p>
 
+<br>
 
+</br>
 <div>
 
-	<p>🎓︎ Actualmente estoy aprendiendo...</p>
+<p>🎓︎ Actualmente estoy aprendiendo...</p>
+	
 	
 	
 | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='42px'/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height='42px'/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height='42px'/></p> |
