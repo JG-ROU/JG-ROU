@@ -27,7 +27,7 @@
 <p>También puedes obtener más información sobre mi trabajo en mi sitio web: <a href="https://r0u.pages.dev/">r0u.pages.dev/</a>
 <br>
  O en mis redes sociales:</p>
-
+<details>
 <p align="center">
 	<a href="https://www.instagram.com/r0u.dev/" target="_blank">
 	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/instagram.svg" width="40" height="95">
@@ -42,7 +42,7 @@
 	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/codepen.svg" width="40" height="95">
 	</a>
 </p>
-
+</details>
 <div>
 <h3 align='center'>👨‍💻 Ranking de mis lenjuajes favoritos 🐺 </h3>
 
