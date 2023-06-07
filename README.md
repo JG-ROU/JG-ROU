@@ -14,17 +14,21 @@
 </br>
 <div>
 
-<h4 align="center">
+<h3 align="center">
 🎓︎ Actualmente estoy aprendiendo....
-</h4>
+</h3>
 
 		
-| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='42px'/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height='42px'/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height='42px'/></p> |
+| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='42px'/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height='42px'/></p> | <p align="center"><img src="https://www.flaticon.es/icono-gratis/piton_3098090?term=python&page=1&position=5&origin=search&related_id=3098090" height='42px'/></p> |
+
+
 |:---: | :---: | :---: |
 	
 </div>
 <br>
-<p>También puedes obtener más información sobre mi trabajo en mi sitio web: <a href="https://bryan-herrera.netlify.app/">https://bryan-herrera.netlify.app/</a> or on my main social networks:</p>
+<p>También puedes obtener más información sobre mi trabajo en mi sitio web: <a href="https://r0u.pages.dev/">r0u.pages.dev/</a>
+<br>
+ O en mis redes sociales:</p>
 
 <p align="center">
 	<a href="https://www.instagram.com/_bryan_herrera_dev_/" target="_blank">
@@ -44,7 +48,7 @@
 	</a>
 </p>
 
-<h2 align='left'><i>👨‍💻 Lenuajes < > Herramientas < > Tecnologias</i></h2>
+<h3 align='left'>👨‍💻 Lenuajes < > Herramientas < > Tecnologias</h3>
 
 | **Lenguajes de programación** | **Frameworks, plataformas y herramientas** | **Bases de datos** | **Sistemas Operativos y CLI** |
 |:---: | :---: | :---: | :---:|
