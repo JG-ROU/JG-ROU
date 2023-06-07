@@ -41,7 +41,7 @@
 </p>
 </details>
 <div>
-<h3 align='center'>👨‍💻 Ranking de mis lenjuajes favoritos 🐺 </h3>
+<h3 align='center'>💻 Ranking de mis lenjuajes favoritos 🐺 </h3>
 
 <a href="https://github.com/JG-ROU/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JG-ROU&size_weight=0.5&count_weight=0.5"  width="400" />
@@ -65,3 +65,15 @@
 <p align="center"> <img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/debian/debian-original-wordmark.svg' height='42px'/><img src='https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg' height='42px'/> </p>
 </details>
 </div>
+
+### Publicaciones de blog
+
+<!-- BLOG-POST-LIST:START -->
+- [Como desplegar NestJS en Deta.sh 🚀](https://adrianub.dev/blog/desplegar-nestjs-en-detash/)
+- [Refactorización: Guard Clauses](https://adrianub.dev/blog/refactorizacion-guard-clauses/)
+- [Crear controles de formulario personalizados usando ControlValueAccessor en Angular](https://adrianub.dev/blog/crear-controles-de-formulario-personalizados-usando-controlvalueaccessor-en-angular/)
+- [Bordes rellenables con TailwindCSS](https://adrianub.dev/blog/bordes-rellenables-con-tailwindcss/)
+- [Combinando múltiples flujos Http con RxJS Observables en Angular](https://adrianub.dev/blog/combinando-multiples-flujos-http-con-rxjs-observables-en-angular/)
+<!-- BLOG-POST-LIST:END -->
+
+Más en [adrianub.dev](https://adrianub.dev/)
