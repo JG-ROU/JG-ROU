@@ -35,9 +35,6 @@
 	<a href="https://www.linkedin.com/in/bryan-herrera-dev/" target="_blank">
 	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/linkedin.svg" width="40" height="95">
 	</a>
-	<a href="https://www.facebook.com/R0U.Dev" target="_blank">
-	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/youtube.svg" width="40" height="95">
-	</a>
 	<a href="https://codepen.io/jg-rou" target="_blank">
 	<img align="center" src="https://raw.githubusercontent.com/Bryan-Herrera-DEV/Bryan-Herrera-DEV/master/img/codepen.svg" width="40" height="95">
 	</a>
