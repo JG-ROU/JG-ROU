@@ -7,7 +7,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=JG-ROU&show_icons=true&theme=radical)"  width="400">
 
-<p>Con más de 4 años de experiencia en el área de programación, soy un desarrollador con enfoque FullStack y diseño de experiencias digitales excepcionales en la web utilizando tecnologías como <br>React</br> Angular12+,Typescript, <br>Python</br>, NodeJS, MongoBD y Oracle entre otras. Actualmente, busco fortalecer y afianzar conocimiento de manera constante buscando estar al dia de las nuevas innovaciones.</p>
+<p>Con más de 4 años de experiencia en el área de programación, soy un desarrollador con enfoque FullStack y diseño de experiencias digitales excepcionales en la web utilizando tecnologías como <b>React</b> Angular12+,Typescript, <b>Python</b>, NodeJS, MongoBD y Oracle entre otras. Actualmente, busco fortalecer y afianzar conocimiento de manera constante buscando estar al dia de las nuevas innovaciones.</p>
 
 
 <div>
