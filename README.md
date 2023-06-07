@@ -19,9 +19,9 @@
 </h3>
 
 		
-| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='42px'/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height='42px'/></p> | <p align="center"><img src="https://www.flaticon.es/icono-gratis/piton_3098090?term=python&page=1&position=5&origin=search&related_id=3098090" height='42px'/></p> |
+| <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='42px'/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height='42px'/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height='42px'/></p> |
 
-
+https://www.flaticon.es/icono-gratis/piton_3098090?term=python&page=1&position=5&origin=search&related_id=3098090
 |:---: | :---: | :---: |
 	
 </div>
