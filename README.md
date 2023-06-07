@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=300&color=00D13B&center=true&vCenter=true&width=750&height=80&lines=I'm+a+FullSatck+Developer+%F0%9F%A7%A1;I'm+a+simple+human+passionate+about+programming+%F0%9F%92%BB;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"  width="400">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JG-ROU&show_icons=true&theme=transparent"  width="400">
 
 <p>Con más de 4 años de experiencia en el área de programación, soy un desarrollador con enfoque FullStack y diseño de experiencias digitales excepcionales en la web utilizando tecnologías como <b>React</b> Angular12+,Typescript, <b>Python</b>, NodeJS, MongoBD y Oracle entre otras. Actualmente, busco fortalecer y afianzar conocimiento de manera constante buscando estar al dia de las nuevas innovaciones.</p>
 
