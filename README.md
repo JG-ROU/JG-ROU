@@ -46,22 +46,18 @@
 <div>
 <h3 align='center'>👨‍💻 Ranking de mis lenjuajes favoritos 🐺 </h3>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JG-ROU"  width="400">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JG-ROU"  width="400">
 </div>
+<br>
+</br>
 
-
-
-
-
-
-<details> 
-
+<div>
 <h3 align='center'>👨‍💻 Lenuajes < > Herramientas < > Tecnologias</h3>
-
-
+<details> 
 
 <p align="center"> 
 <img src='https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original.svg' height='42px'/> <img src='https://github.com/devicons/devicon/raw/master/icons/git/git-original.svg' height='42px'/> <img src='https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg' height='42px'/> <img src='https://github.com/prplx/svg-logos/blob/master/svg/angular.svg' height='42px'/> <img src='https://github.com/devicons/devicon/raw/master/icons/nestjs/nestjs-plain.svg' height='42px'/> <img src='https://github.com/devicons/devicon/raw/master/icons/terraform/terraform-original.svg' height='42px'/> <img src='https://github.com/devicons/devicon/raw/master/icons/kubernetes/kubernetes-plain.svg' height='42px'/> <img src='https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg' height='42px'/> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg' height='42px'/> </p> <br> 
 <p align="center"> <img src='https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg' height='42px'/> <img src='https://raw.githubusercontent.com/sammwyy/sammwyy/master/skills/mysql.png' height='42px'/> <img src='https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg' height='42px'/> </p> <br>  
 <p align="center"> <img src='https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/debian/debian-original-wordmark.svg' height='42px'/><img src='https://github.com/devicons/devicon/raw/master/icons/ubuntu/ubuntu-plain.svg' height='42px'/> </p>
 </details>
+</div>
