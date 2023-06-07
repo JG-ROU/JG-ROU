@@ -1,5 +1,5 @@
 <h3 align="center">
-  Soy Jorge Gutierrez (r0u) ¡Bienvenido a mi perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">!
+  Soy Jorge Gutierrez (r0u 🐺) ¡Bienvenido a mi perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">!
 </h3>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=300&color=00D13B&center=true&vCenter=true&width=750&height=80&lines=I'm+a+FullSatck+Developer+%F0%9F%A7%A1;I'm+a+simple+human+passionate+about+programming+%F0%9F%92%BB;Always+learning+new+things" alt="Typing SVG" /></a>
@@ -55,8 +55,7 @@
 
 
 <div>
-
-</div>
+<h3 align='center'>👨‍💻 Ranking de mis lenjuajes favoritos 🐺 </h3>
 
 <details> 
 
