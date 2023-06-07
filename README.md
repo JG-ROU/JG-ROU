@@ -46,7 +46,7 @@
 <div>
 <h3 align='center'>👨‍💻 Ranking de mis lenjuajes favoritos 🐺 </h3>
 
-<img align="right" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"  width="400">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JG-ROU (https://github.com/JG-ROU/github-readme-stats)"  width="400">
 </div>
 
 
