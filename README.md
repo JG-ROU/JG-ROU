@@ -11,7 +11,7 @@
 
 <p>I am a person who likes to teach, laugh and share, that is reflected in my YouTube, I consider myself a friendly person who likes to learn about everything, my biggest hobby is learning about astronomy and philosophy. I am someone with a lot of humor but at the same time seriousness in my work.</p>
 <div>
-	<p>🎓︎ I am currently learnin</p>
+	<p>🎓︎ Actualmente estoy aprendiendo...</p>
 	
 	
 | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='42px'/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height='42px'/></p> | <p align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height='42px'/></p> |
