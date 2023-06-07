@@ -5,7 +5,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=300&color=00D13B&center=true&vCenter=true&width=750&height=80&lines=I'm+a+FullSatck+Developer+%F0%9F%A7%A1;I'm+a+simple+human+passionate+about+programming+%F0%9F%92%BB;Always+learning+new+things" alt="Typing SVG" /></a>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Bryan-Herrera-DEV&show_icons=true&title_color=ffffff&icon_color=00d13b&text_color=9f9f9f&bg_color=000000&border_color=00d13b&include_all_commits=true"  width="400">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=JG-ROU&show_icons=true&theme=radical)"  width="400">
 
 <p>With more than 4 years in the programming area, I am a FullStack developer specialized in building (and occasionally designing) exceptional digital experiences on the web with technologies such as: Angular12+, MongoDB, Typescript, NodeJS, etc. Currently, I focus on content outreach and building accessible, user experience-centric, scalable and maintainable BackEnd pages and services.</p>
 
@@ -19,7 +19,7 @@
 	
 </div>
 <br>
-<p>You can learn more about my work on my website: <a href="https://bryan-herrera.netlify.app/">https://bryan-herrera.netlify.app/</a> or on my main social networks:</p>
+<p>También puedes obtener más información sobre mi trabajo en mi sitio web: <a href="https://bryan-herrera.netlify.app/">https://bryan-herrera.netlify.app/</a> or on my main social networks:</p>
 
 <p align="center">
 	<a href="https://www.instagram.com/_bryan_herrera_dev_/" target="_blank">
