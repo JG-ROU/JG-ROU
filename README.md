@@ -46,11 +46,9 @@
 <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs/?username=JG-ROU&size_weight=0.5&count_weight=0.5"  width="400">
 
 <a href="https://github.com/JG-ROU/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JG-ROU&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JG-ROU&size_weight=0.5&count_weight=0.5"  width="400" />
 </a>
-<a href="https://github.com/JG-ROU/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JG-ROU&repo=convoychat" />
-</a>
+
 </div>
 <br>
 </br>
