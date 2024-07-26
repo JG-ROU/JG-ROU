@@ -1,6 +1,6 @@
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=200&color=09F72E&background=571EFF00&width=435&lines=!Hey+soy+r0u%F0%9F%90%BA%C2%A1;%F0%9F%8E%93+Ingeniero+de+Sistemas+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;Desarrollador+FullStak+;Siempre+aprendiendo+nuevos+temas..." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=3000&pause=200&color=09F72E&background=571EFF00&width=435&lines=!Hey+soy+r0u%F0%9F%90%BA%C2%A1;%F0%9F%8E%93+Ingeniero+de+Sistemas+%F0%9F%91%A8%F0%9F%8F%BE%E2%80%8D%F0%9F%92%BB;Desarrollador+FullStack+" alt="Typing SVG" /></a>
 </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=JG-ROU&show_icons=true&theme=transparent"  width="400">
