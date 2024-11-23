@@ -5,7 +5,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=JG-ROU&show_icons=true&theme=transparent"  width="400">
 
-<h2>👨‍💻 FullStack Developer | Digital Experience Designer</h2>
+<h2>👨‍💻 FullStack WEB Developer | Digital Experience Designer</h2>
 
 <p>🌐 Apasionado por crear experiencias digitales excepcionales utilizando:</p>
 <ul>
