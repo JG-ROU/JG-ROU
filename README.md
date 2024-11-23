@@ -9,7 +9,7 @@
 
 <p>🌐 Apasionado por crear experiencias digitales excepcionales utilizando:</p>
 <ul>
-  <li><strong>Front-end</strong>: React, Angular 12+, TypeScript</li>
+  <li><strong>Front-end</strong>: React, Angular 12+, NextJs</li>
   <li><strong>Back-end</strong>: NodeJS</li>
 </ul>
 
